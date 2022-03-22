@@ -36,6 +36,7 @@ void printArr(int** multiArr, int rows, int cols) {
 		}
 		cout << endl;
 	}
+	cout << endl;
 }
 void addCols(int** &multiArr, int rows, int &cols) {
 	int index;
