@@ -1,4 +1,4 @@
-/*Задание 2. Написать функцию, удаляющую столбец двухмерного массива по указанному номеру.*/
+п»ї/*Р—Р°РґР°РЅРёРµ 2. РќР°РїРёСЃР°С‚СЊ С„СѓРЅРєС†РёСЋ, СѓРґР°Р»СЏСЋС‰СѓСЋ СЃС‚РѕР»Р±РµС† РґРІСѓС…РјРµСЂРЅРѕРіРѕ РјР°СЃСЃРёРІР° РїРѕ СѓРєР°Р·Р°РЅРЅРѕРјСѓ РЅРѕРјРµСЂСѓ.*/
 #include <iostream>
 using namespace std;
 void printArr(int** multiArr, int rows, int cols);
@@ -39,7 +39,7 @@ void printArr(int** multiArr, int rows, int cols) {
 }
 void delCols(int**& multiArr, int rows, int& cols) {
 	int index;
-	cout << "Введите позицию ";
+	cout << "Р’РІРµРґРёС‚Рµ РїРѕР·РёС†РёСЋ ";
 	cin >> index;
 	cols--;
 	int** newArr = new int* [rows];
