@@ -47,11 +47,11 @@ void addCols(int** &multiArr, int rows, int &cols) {
 	for (int i = 0; i < rows; i++) {
 		newArr[i] = new int[cols];
 	}
-	for (int i = 0; i < rows; i++) {
+	/*for (int i = 0; i < rows; i++) {
 		for (int j = 0; j < cols; j++) {
 			newArr[i][j] = 2;
 		}
-	}
+	}*/
 	//printArr(newArr, rows, cols);
 	
 	for (int i = 0; i < rows; i++)
