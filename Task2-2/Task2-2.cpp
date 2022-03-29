@@ -46,8 +46,6 @@ int main()
         }
     }
     
-    
-   
     for (int i = 0; i < rows2; i++) {
         for (int j = 0; j < cols2; j++) {
             mArr3[i][j] = mArr3[i][j] + mArr2[i][j];
