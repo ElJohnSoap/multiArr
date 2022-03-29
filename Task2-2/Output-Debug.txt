@@ -1,0 +1,15 @@
+﻿'Task2-2.exe' (Win32): Loaded 'C:\Users\hloiv\source\repos\multiArr\Task2-2\x64\Debug\Task2-2.exe'. Symbols loaded.
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x24a4 has exited with code 0 (0x0).
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'Task2-2.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x1298 has exited with code 0 (0x0).
+The thread 0x2470 has exited with code 0 (0x0).
+The program '[7524] Task2-2.exe' has exited with code 0 (0x0).

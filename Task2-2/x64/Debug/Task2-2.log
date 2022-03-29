@@ -1,0 +1,3 @@
+﻿  Task2-2.cpp
+C:\Users\hloiv\source\repos\multiArr\Task2-2\Task2-2.cpp(72,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task2-2.vcxproj -> C:\Users\hloiv\source\repos\multiArr\Task2-2\x64\Debug\Task2-2.exe
