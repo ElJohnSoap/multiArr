@@ -10,7 +10,7 @@ int** creatArr(int rows, int cols);
 void initArr(int** Arr, int rows, int cols);
 void delArr(int** Arr, int rows);
 void printArr(int** Arr, int rows, int cols);
-void delNullCols(int**& Arr, int &rows, int cols);
+void delNullRows(int**& Arr, int &rows, int cols);
 
 
 int main()
@@ -21,7 +21,7 @@ int main()
     initArr(mArr, rows, cols);
     printArr(mArr, rows, cols);
     
-    delNullCols(mArr, rows, cols);
+    delNullRows(mArr, rows, cols);
 
     printArr(mArr, rows, cols);
 
@@ -68,7 +68,7 @@ void printArr(int** Arr, int rows, int cols) {
     cout << endl;
 }
 
-void delNullCols(int**& Arr, int &rows, int cols) {
+void delNullRows(int**& Arr, int &rows, int cols) {
     int countRows = 0;
     bool Z = false;//меняется при наличии 0
     for (int i = 0; i < rows; i++) {

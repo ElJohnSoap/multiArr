@@ -2,14 +2,15 @@
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
-The thread 0x217c has exited with code 0 (0x0).
+The thread 0x600 has exited with code 0 (0x0).
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
 'Task2-1.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
-The thread 0x33c8 has exited with code 0 (0x0).
-The thread 0x2c0c has exited with code 0 (0x0).
-The program '[5504] Task2-1.exe' has exited with code 0 (0x0).
+The thread 0x113c has exited with code 0 (0x0).
+The thread 0x2700 has exited with code 0 (0x0).
+The program '[9072] Task2-1.exe' has exited with code 0 (0x0).
